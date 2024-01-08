@@ -1,16 +1,16 @@
-# Python Backend Project
+# Hospital Management System
 
 ## CLI Project - Phase 3
 
 ### Project Description
 
-Welcome to the end of Phase 3! In this project, you will apply the skills you've learned throughout this unit, including Python fundamentals, data structures, object-oriented programming, SQL fundamentals, and more. The goal is to create a Command Line Interface (CLI) application that solves a real-world problem and adheres to best practices.
+Develop a Hospital Management System (HMS) using a Command Line Interface (CLI) that addresses the operational needs of a hospital. The system should cover various aspects, including patient management, appointment scheduling, and medical staff coordination.
 
 ### Project Requirements
 
 - **CLI Application:**
-  - Create a CLI application that addresses a real-world problem.
-  - Adhere to best practices for CLI development.
+  - Create a CLI application that allows users (hospital staff) to interact with the system efficiently.
+  - Implement features for managing patients, appointments, and medical staff.
 
 - **Database:**
   - Utilize SQLAlchemy ORM to create and modify a database.
@@ -33,7 +33,7 @@ Welcome to the end of Phase 3! In this project, you will apply the skills you've
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Python3-Git-Lab/python-project-end-phase.git
    ```
 2. Navigate to the project directory:
 
